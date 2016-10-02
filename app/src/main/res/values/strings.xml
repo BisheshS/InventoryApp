@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="add_item">Add Product</string>
+    <string name="details">Info</string>
+    <string name="lets_add">Let\'s add items to the Inventory!</string>
+    <string name="delete_all">Delete All</string>
+    <string name="order">Order</string>
+    <string name="delete">Delete</string>
+    <string name="add_image">Add Image</string>
+    <string name="add">Add</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="product_name">Product Name</string>
+
+</resources>
